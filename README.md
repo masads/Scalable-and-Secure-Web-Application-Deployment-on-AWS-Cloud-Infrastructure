@@ -1,5 +1,6 @@
 # Scalable-and-Secure-Web-Application-Deployment-on-AWS-Cloud-Infrastructure
-![My Image](diagram-export-7_2_2023, 6_41_02 PM.png)
+![My Image](diagram.png)
+
 Objective:-
 The objective of this project is to deploy a highly available, secure, and scalable web application using Amazon Web Services (AWS).
 Deployment Structure:
